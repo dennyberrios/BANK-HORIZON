@@ -1,0 +1,15 @@
+export const backgroundLightBlue = "#E0F7FA"; // Cor de fundo (Light Blue)
+export const colorDarkGreen = "#004D40"; // Cor do texto (Dark Green)
+export const backgroundDarkGreen = "#00695C"; // Cor de fundo do header e outras seções (Dark Green)
+export const colorWhite = "#FFFFFF"; // Cor do texto (White)
+export const colorYellow = "#FFC107"; // Cor dos links na navegação (Yellow)
+export const colorLighterYellow = "#FFAB40"; // Cor dos links ao passar o mouse (Lighter Yellow)
+export const backgroundOrange = "#FF5722"; // Cor do botão primário (Orange)
+export const shadowBeforeColor = "rgba(255, 87, 34, 0.20)";
+export const shadowAfterColor = "rgba(255, 87, 34, 0.30)";
+export const backgroundDarkerOrange = "#E64A19"; // Cor do botão primário ao passar o mouse (Darker Orange)
+export const borderLightTeal = "#B2DFDB"; // Cor da borda e de fundo de alguns elementos (Light Teal)
+export const colorFooterBackground = "#004D40"; // Cor de fundo do footer (Dark Green)
+export const colorHeroText = "#FFFFFF"; // Cor do texto na seção hero (White)
+export const buttonTextPrimary = "#FFFFFF"; // Cor do texto nos botões (White)
+export const backgroundBoxShadow = "#0000004d";
